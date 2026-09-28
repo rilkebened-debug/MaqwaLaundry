@@ -285,7 +285,7 @@ window.closeOrderModal = () => {
 /* Submit WhatsApp Form */
 window.sendWhatsApp = (e) => {
   e.preventDefault();
-  const phone = "08xxxxxxxxxx"; // Placeholder Number
+  const phone = "6282364392030"; // Placeholder Number
   const name = document.getElementById('form-name').value;
   const address = document.getElementById('form-address').value;
   const service = document.getElementById('form-service').value;
